@@ -73,7 +73,7 @@ int main()
 {
 
 //	CountWordNumber_P375();
-	P114();
+//	P114();
 	system("pause");
 	return 0;
 }
