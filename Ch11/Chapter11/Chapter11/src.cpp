@@ -40,8 +40,6 @@ int main()
 
 	//CountWordNumber_P375();
 
-
-
 	system("pause");
 	return 0;
 }
