@@ -27,3 +27,14 @@
 *.exe
 *.out
 *.app
+/Ch11/Chapter11/.vs/Chapter11/v14/*.suo
+/Ch11/Chapter11/*.opendb
+/Ch11/Chapter11/*.db
+/Ch11/Chapter11/Debug/*.pdb
+/Ch11/Chapter11/Debug/*.ilk
+/Ch11/Chapter11/Chapter11/Debug/*.pdb
+/Ch11/Chapter11/Chapter11/Debug
+/Ch11/Chapter11/Chapter11/*.user
+/Ch11/Chapter11/Chapter11/*.filters
+/Ch11/Chapter11/Chapter11/*.vcxproj
+/Ch11/Chapter11/*.sln
